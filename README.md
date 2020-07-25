@@ -1,4 +1,4 @@
-# cal
+# SmartCal (https://calsmart1234.web.app/)
 
 > A Vue.js project
 
